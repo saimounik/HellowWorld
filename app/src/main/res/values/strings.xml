@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Brown House Buyers</string>
+    <string name="adress">1/68,Beside Pvr mall,Bandar Road,Vijaywada,Andhr Pradesh,516104</string>
+    <string name="businessinfo">We Buy/Sell All Types of Houses</string>
+    <string name="contactinfo">Contact Us</string>
+    <string name="managerinfo">Manager: Venkateswar Rao</string>
+    <string name="mobilenumber">Mobile: 7799265577</string>
+    <string name="Email">Email: venkat.housebuyers@gmail.com</string>
+    <string name="Businesswebsitename">www.brownhouseventures.com</string>
+    <string name="website">Website</string>
+    <string name="location">Location</string>
+    <string name="locationdetails">1/68,Beside Pvr Mall,Bandar Road,Vijaywada,
+        PIN:520010." </string>
+    <string name="worknghrs">Working Hours</string>
+    <string name="wrkngtmngs">9AM TO 9PM IST.</string>
+
+
+
+
+
+</resources>
+
